@@ -18,13 +18,13 @@
 >In this work, We directly use the preprocessed genomic data in the `datasets_csv` folder from the [SurvPath](https://github.com/mahmoodlab/SurvPath).
 
 ## Training and Testing
->We provide the training and testing script `prosurv.sh` in the `scripts` folder. Set the parameter and run it.
+>We provide the training and testing script `prosurv.sh` in the `scripts` folder. Set the parameters and run it.
 
 ```bash
 bash scripts/prosurv.sh
 ```
 ## Acknowledgement
->We would like to thank the following  repositories for their great work.
+>We would like to thank the following repositories for their great work.
 
 >+ [CLAM](https://github.com/mahmoodlab/CLAM)
 >+ [SurvPath](https://github.com/mahmoodlab/SurvPath) 
