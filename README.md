@@ -5,10 +5,7 @@
 
 Histo-genomic multimodal survival prediction has garnered growing attention for its remarkable model performance and potential contributions to precision medicine. However, a significant challenge in clinical practice arises when only unimodal data is available, limiting the usability of these advanced multimodal methods. To address this issue, we proposes a prototype-guided cross-modal knowledge enhancement (ProSurv) framework, which learns modality-specific prototype banks to capture survival-critical features and transfers knowledge across modalities via prototype-guided feature translation and alignment, enabling robust prediction with both unimodal and multimodal inputs. As a result, ProSurv eliminates the dependency on paired data and enables robust learning and adaptive survival prediction. Overall, ProSurv addresses a critical practical challenge in computational pathology, offering substantial significance and potential impact in the field.
 
-
 ![overview](docs/overview.png)
-![modules](docs/modules.png)
-
 
 ## Data Preprocess
 ### WSIs
